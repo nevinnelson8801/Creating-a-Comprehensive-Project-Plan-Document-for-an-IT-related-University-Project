@@ -32,3 +32,6 @@ Agile methodology with sprint-based developmentwas to ensure flexibility and con
 ## Project Details
 - Duration: 5 months
 - Budget: €20,000
+
+## Author
+Nevin Nelson
